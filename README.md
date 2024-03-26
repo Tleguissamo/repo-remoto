@@ -1,2 +1,2 @@
-# repo-remoto
-PRIMEIROS PASSOS COM GIT E GITHUB
+# Repositório Remoto
+Descrição inserida no repositório antes do clone.
